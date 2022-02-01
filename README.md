@@ -9,4 +9,4 @@ Pueden hacer lo que quieran...
 ### Actualizados desde GitHub
 Este es una entrada realizada desde GitHub
 
-### Estos cambios son nuevos
+### Estos cambios son nuevos para conflicto desde GitHub
