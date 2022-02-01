@@ -10,3 +10,4 @@ Pueden hacer lo que quieran...
 Este es una entrada realizada desde GitHub
 
 ### Estos cambios son nuevos para conflicto desde GitHub
+### Estos cambios son nuevos para conflicto desde repositorio local
